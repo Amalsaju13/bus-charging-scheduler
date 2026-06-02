@@ -66,7 +66,7 @@ tab1, tab2, tab3, tab4 = st.tabs(
     [
         "Scenario Input",
         "Bus Timetable 🗓️",
-        "Station Queues",
+        "Station Queues ⏳",
         "Metrics"
     ]
 )
