@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("⚡🔋🚌 Bus Charging Scheduler")
+st.title("⚡🔋🚍 Bus Charging Scheduler")
 
 # -----------------------------
 # Scenario Selection
